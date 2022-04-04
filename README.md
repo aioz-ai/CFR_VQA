@@ -7,7 +7,7 @@
 
 This repository is the implementation of `Coarse-to-Fine Reasoning Framework (CFR)` for the visual question answering task. Our proposal achieves comparative results on [GQA dataset](https://cs.stanford.edu/people/dorarad/gqa/index.html)
 
-* We have considered integrating XYZ into the CFRF. The setup further improves the overall performance in GQA validate set (75.86%; 2.26% higher than the original CFRF). The number of parameters is only a X% increase in comparison with our original CFRF.
+* During the challenge, we have considered integrating [LXMERT](https://github.com/airsplay/lxmert) into the CFRF. The setup further improves the overall performance in GQA validate set (75.86%; 2.26% higher than the original CFRF).
 
 For the detail, please refer to [link](https://arxiv.org/abs/2110.02526). 
 
