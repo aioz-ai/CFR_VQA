@@ -1,0 +1,9 @@
+# Ignore data folder for light-weight
+data/
+results/
+saved_models/
+pretrained/
+tools/
+.idea/
+*.pyc
+*.swp

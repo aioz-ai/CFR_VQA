@@ -1,0 +1,1 @@
+python evaluate.py --model CFRF_Model --batch_size 256 --activation swish --dropout 0.45 --input saved_models/GQA/replicate_result_default --epoch _best --topk 6 --omega_v 1e-3 --omega_q 1e-3 --gpu 0  --xlayers 2 --llayers 7 --rlayers 2 --split val

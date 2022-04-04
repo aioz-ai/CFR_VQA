@@ -1,0 +1,1 @@
+python main.py --model CFRF_Model --gamma 2 --batch_size 64 --loadLXMERTQA pretrained/model --activation swish --dropout 0.45 --output saved_models/GQA/replicate_result_default --gpu 0 --dataset GQA --epoch 13 --lxmert_lr 1e-4 --topk 6  --xlayers 2 --llayers 7 --rlayers 2
