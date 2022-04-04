@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 ### Dataset
 
-* **GQA dataset for VQA task** should be downloaded via [link](). The downloaded file should be extracted to `data/gqa/` directory.
+* **GQA dataset for VQA task** should be downloaded via [link](). The downloaded file should be extracted to `data/gqa/` directory. Note that, the data has been pre-process to content all corresponding visual and language features mentioned in our paper.
 
 ### Training
 
