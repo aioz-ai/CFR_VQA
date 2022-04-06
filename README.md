@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 ### Dataset
 
-* **GQA dataset for VQA task** should be downloaded via [link](). The downloaded file should be extracted to `data/gqa/` directory. Note that, the data has been pre-process to content all corresponding visual and language features mentioned in our paper.
+* **GQA dataset for VQA task** should be downloaded via [link](https://vision.aioz.io/f/c11580c0318846d1939c/?dl=1). The downloaded file should be extracted to `data/gqa/` directory. Note that, the data has been pre-process to content all corresponding visual and language features mentioned in our paper.
 
 ### Training
 
@@ -47,7 +47,7 @@ sh train.sh
 
 ### Pretrained models and Testing
 
-We also provide the pre-trained weights of our models on GQA dataset in [here]().  Please download and move them to `saved_models/GQA/replicate_result_default` directory. The pre-trained model can be tested in GQA test set via:
+We also provide the pre-trained weights of our models on GQA dataset in [here](https://vision.aioz.io/f/aade8c6fd7104b11b2ab/?dl=1).  Please download and move them to `saved_models/GQA/replicate_result_default` directory. The pre-trained model can be tested in GQA test set via:
 
 ```bash
 sh test.sh
