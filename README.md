@@ -59,7 +59,13 @@ sh test.sh
 If you use this code as part of any published research, we'd really appreciate it if you could cite the following paper:
 
 ```
-updating
+@inproceedings{nguyen2022coarse,
+  title={Coarse-to-Fine Reasoning for Visual Question Answering},
+  author={Nguyen, Binh X and Do, Tuong and Tran, Huy and Tjiputra, Erman and Tran, Quang D and Nguyen, Anh},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4558--4566},
+  year={2022}
+}
 ```
 
 ### License
